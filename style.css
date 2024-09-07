@@ -1,0 +1,170 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+ background-image: url("https://cdn.discordapp.com/attachments/1253348369649111163/1258240012978360340/images_-_2024-05-21T194136.142.jpeg?ex=668752d4&is=66860154&hm=0b916c54dd7edd3fda46add4141459125d0a19c7f877e057045de79888d82c35&")
+}
+
+.title {
+  background-color: transparent;
+  border: solid skyblue 3px;
+  border-radius: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-weight: bold;
+  text-align: center;
+  background: linear-gradient(to bottom, blue, #81F7F3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.tophead{
+  text-align: left;
+  color: white;
+  padding-bottom: 20px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+.newhack {
+  color: deepskyblue;
+  text-align: center;
+  border-bottom: solid skyblue 2px;
+  margin-right: 120px;
+  margin-left: 120px;
+  margin-top: 100px;;
+  background: linear-gradient(to bottom, deepskyblue, lightskyblue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.footer {
+  color: white;
+  text-align: center;
+  margin-top: 400pxpx;
+  background-color: transparent;
+  border-top: solid skyblue 2px;
+  border-left: solid skyblue 2px;
+  border-right: solid skyblue 2px;
+  padding: 20px;
+  border-radius: 20px 20px 0 0;
+  padding-bottom: 15px;
+}
+
+.logo {
+  height: 140px;
+  width: 140px;
+  margin-left: 120px;
+  margin-top: 50px;
+  border: solid 4px skyblue;
+  border-radius: 80px;
+}
+
+.above {
+  color: deepskyblue;
+  border-bottom: solid skyblue 2px;
+}
+
+.contact {
+  text-align: right;
+  color: deepskyblue;
+  border-bottom: solid skyblue 2px;
+}
+
+.cinfo {
+  text-align: right;
+  color: whitesmoke;
+  border-bottom: solid skyblue 2px;
+  padding-bottom: 20px;
+}
+  
+ .hackinfo {
+   font-size: bold;
+    text-align: center;
+    color: floralwhite;
+    background-color: transparent;
+    border: solid skyblue 2px;
+    border-radius: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .hack {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    border: solid deepskyblue 2px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .hack:hover {
+    background-color: #0056b3;
+  }
+  
+  .hack:active {
+    transform: scale(0.95);
+  } 
+  
+  .obb {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    border: solid deepskyblue 2px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .hack:hover {
+    background-color: #0056b3;
+  }
+  
+  .hack:active {
+    transform: scale(0.95);
+  }
+  
+  .vpn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007BFF;
+    border: solid deepskyblue 2px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  .hack:hover {
+    background-color: #0056b3;
+  }
+  
+  .hack:active {
+    transform: scale(0.95);
+  }
+  
+  footer {
+    color: floralwhite;
+    text-align: center;
+    background-color: transparent;
+    border-top: solid deepskyblue 2px;
+    padding: 20px;
+    
+  }
